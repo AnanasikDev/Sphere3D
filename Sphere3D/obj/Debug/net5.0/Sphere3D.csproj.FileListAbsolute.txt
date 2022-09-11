@@ -1,0 +1,16 @@
+C:\GitArchive\Archive\Code\C#\Sphere3D\Sphere3D\bin\Debug\net5.0\Sphere3D.exe
+C:\GitArchive\Archive\Code\C#\Sphere3D\Sphere3D\bin\Debug\net5.0\Sphere3D.deps.json
+C:\GitArchive\Archive\Code\C#\Sphere3D\Sphere3D\bin\Debug\net5.0\Sphere3D.runtimeconfig.json
+C:\GitArchive\Archive\Code\C#\Sphere3D\Sphere3D\bin\Debug\net5.0\Sphere3D.runtimeconfig.dev.json
+C:\GitArchive\Archive\Code\C#\Sphere3D\Sphere3D\bin\Debug\net5.0\Sphere3D.dll
+C:\GitArchive\Archive\Code\C#\Sphere3D\Sphere3D\bin\Debug\net5.0\ref\Sphere3D.dll
+C:\GitArchive\Archive\Code\C#\Sphere3D\Sphere3D\bin\Debug\net5.0\Sphere3D.pdb
+C:\GitArchive\Archive\Code\C#\Sphere3D\Sphere3D\obj\Debug\net5.0\Sphere3D.csprojAssemblyReference.cache
+C:\GitArchive\Archive\Code\C#\Sphere3D\Sphere3D\obj\Debug\net5.0\Sphere3D.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitArchive\Archive\Code\C#\Sphere3D\Sphere3D\obj\Debug\net5.0\Sphere3D.AssemblyInfoInputs.cache
+C:\GitArchive\Archive\Code\C#\Sphere3D\Sphere3D\obj\Debug\net5.0\Sphere3D.AssemblyInfo.cs
+C:\GitArchive\Archive\Code\C#\Sphere3D\Sphere3D\obj\Debug\net5.0\Sphere3D.csproj.CoreCompileInputs.cache
+C:\GitArchive\Archive\Code\C#\Sphere3D\Sphere3D\obj\Debug\net5.0\Sphere3D.dll
+C:\GitArchive\Archive\Code\C#\Sphere3D\Sphere3D\obj\Debug\net5.0\ref\Sphere3D.dll
+C:\GitArchive\Archive\Code\C#\Sphere3D\Sphere3D\obj\Debug\net5.0\Sphere3D.pdb
+C:\GitArchive\Archive\Code\C#\Sphere3D\Sphere3D\obj\Debug\net5.0\Sphere3D.genruntimeconfig.cache
